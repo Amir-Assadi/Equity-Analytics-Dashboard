@@ -18,7 +18,7 @@ Tracks analyst ratings and analyst coverage across 500+ companies over time, all
 ### Coca-Cola Financial Dashboard
 A detailed financial performance dashboard for The Coca-Cola Company (KO), combining operational, financial, and market-performance data.
 
-![Coca-Cola Financial Dashboard](Img/KO_Dashboard.png)
+![Coca-Cola Financial Dashboard](Img/KO_Dash.png)
 
 ## Coca-Cola Dashboard
 
